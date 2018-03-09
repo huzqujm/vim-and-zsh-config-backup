@@ -17,7 +17,7 @@ ______
 
 The following vim Plugins will also be installed
 * [airline](https://github.com/vim-airline/vim-airline.git)
-* [airline-themes] (https://github.com/vim-airline/vim-airline-themes.git)
+* [airline-themes](https://github.com/vim-airline/vim-airline-themes.git)
 * [jedi-vim](https://github.com/davidhalter/jedi-vim.git)
 * [clang-complete](https://github.com/Rip-Rip/clang_complete.git)
 * [nerdtree](https://github.com/scrooloose/nerdtree.git)
