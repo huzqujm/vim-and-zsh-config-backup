@@ -49,6 +49,7 @@ set expandtab
 
 
 set hlsearch
+set incsearch
 set background=dark
 
 " For regular expressions"
